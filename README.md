@@ -15,10 +15,6 @@ This is a simple web application to collect feedback from students using a form.
 2. Open **XAMPP Control Panel** → Start **Apache** and **MySQL**
 3. Put this project folder inside:
 C:\xampp\htdocs\
-
-css
-Copy
-Edit
 4. Open browser and go to:
 http://localhost/Student_Feedback_System/index.html
 
