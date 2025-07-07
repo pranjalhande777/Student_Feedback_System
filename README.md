@@ -17,10 +17,6 @@ This is a simple web application to collect feedback from students using a form.
 C:\xampp\htdocs\
 4. Open browser and go to:
 http://localhost/Student_Feedback_System/index.html
-
-markdown
-Copy
-Edit
 5. Import `database.sql` in `phpMyAdmin` to create your DB
 
 ## 🛠 Tech Used
